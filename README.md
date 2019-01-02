@@ -6,7 +6,7 @@ Description - Downloads top 25 post images from reddit urls stored in urls.txt t
 
 More detailed installation instructions coming soon.
 
-Install feh (sudo apt-get install feh)
+Install feh (sudo apt-get install feh) (Image viewer / slide show application.)
 
 Install pip (sudo apt-get install pip) (Python package manager)
 
@@ -18,11 +18,8 @@ Execute using /usr/bin/python ~/pycture.py
 
 File description:
 
-
 urls.txt (contains list of subreddits to grab data from.)
 
-
 pycture.py (main program file)
-
 
 pylogger.py (basic logging / error logging class.)
