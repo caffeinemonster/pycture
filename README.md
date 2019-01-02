@@ -10,7 +10,7 @@ Install feh (sudo apt-get install feh) (Image viewer / slide show application.)
 
 Install pip (sudo apt-get install pip) (Python package manager)
 
-Install python-requests package. (sudo pip install python-requests)
+Install python-requests package. (sudo pip install requests)
 
 Copy to home directory urls.txt, pycture.py and pylogger.py.
 
