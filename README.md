@@ -8,6 +8,10 @@ More detailed installation instructions coming soon.
 
 Install feh (sudo apt-get install feh)
 
+Install pip (sudo apt-get install pip) (Python package manager)
+
+Install python-requests package. (sudo pip install python-requests)
+
 Copy to home directory urls.txt, pycture.py and pylogger.py.
 
 Execute using /usr/bin/python ~/pycture.py
