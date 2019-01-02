@@ -6,6 +6,8 @@ Description - Downloads top 25 post images from reddit urls stored in urls.txt t
 
 More detailed installation instructions coming soon.
 
+Install feh (sudo apt-get install feh)
+
 Copy to home directory urls.txt, pycture.py and pylogger.py.
 
 Execute using /usr/bin/python ~/pycture.py
