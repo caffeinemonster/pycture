@@ -16,6 +16,8 @@ Copy to home directory urls.txt, pycture.py and pylogger.py.
 
 Execute using /usr/bin/python ~/pycture.py
 
+TODO: ADD INSTRUCTIONS TO HIDE TASKBAR AND AUTORUN.
+
 File description:
 
 urls.txt (contains list of subreddits to grab data from.)
